@@ -1,3 +1,5 @@
+# Restaurant Management System 
+
 from tkinter import *
 import random
 import time
